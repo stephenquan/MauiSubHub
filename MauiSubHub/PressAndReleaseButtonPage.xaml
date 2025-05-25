@@ -55,7 +55,7 @@
                                     <FormattedString>
                                         <Span FontAttributes="Bold" Text="{Binding Name}" />
                                         <Span Text=" - " />
-                                        <Span Text="{Binding Elapsed}" />
+                                        <Span Text="{Binding Position}" />
                                     </FormattedString>
                                 </Label.FormattedText>
                             </Label>
